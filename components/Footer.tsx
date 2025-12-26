@@ -47,7 +47,7 @@ export const Footer = () => {
             Clove Embassy Tech Village,<br/>
             Outer Ring Road, Devarabeesanahalli Village,<br/>
             Bengaluru, 560103,<br/>
-            Karnataka, India
+            Kolkata, India
           </p>
         </div>
       </div>
