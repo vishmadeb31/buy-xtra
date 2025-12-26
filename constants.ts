@@ -10,7 +10,7 @@ export const MOCK_PRODUCTS: Product[] = [
     id: '1',
     category: 'mobile',
     brand: 'Apple',
-    model: 'iPhone 15',
+    model: 'vivo v60',
     name: 'Apple iPhone 15 (Blue, 128 GB)',
     images: [
       'https://images.unsplash.com/photo-1696446701796-da61225697cc?auto=format&fit=crop&q=80&w=800',
