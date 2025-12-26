@@ -16,7 +16,6 @@ export const MOCK_PRODUCTS: Product[] = [
       'https://images.unsplash.com/photo-1696446701796-da61225697cc?auto=format&fit=crop&q=80&w=800',
       'https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&q=80&w=800',
       'https://images.unsplash.com/photo-1696446700542-c36b6923055e?auto=format&fit=crop&q=80&w=800',
-      'https://images.unsplash.com/photo-1696446700542-c36b6923055e?auto=format&fit=crop&q=80&w=800',
       'https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&q=80&w=800'
     ],
     rating: 4.6,
